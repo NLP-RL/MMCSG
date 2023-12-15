@@ -1,6 +1,5 @@
-# Multimodal Medical Concern Summary Generation
+# Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation
 
-## Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation
 Please install the dependencies (requirements.txt). To install the packages, 
 
     conda install --file requirements.txt
