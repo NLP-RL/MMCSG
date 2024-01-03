@@ -1,4 +1,4 @@
-## Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation
+### Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation
 
 The repository contains code and dataset for research article titled 'Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation' published at 46th European Conference on Information Retrieval (ECIR 2024). 
 
