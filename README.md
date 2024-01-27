@@ -10,6 +10,10 @@ Please install the dependencies (requirements.txt). To install the packages,
 
     conda install --file requirements.txt
 
+Dataset Access 
+
+    Link: https://docs.google.com/spreadsheets/d/1VDjL_YCjPMT44C-_YHeGNkRZj5QZC9Qk9nQePjB4m30/edit?usp=sharing
+
 Training
 
     For medical concern summary generation: MMCSG > python IR-MMCS.py
