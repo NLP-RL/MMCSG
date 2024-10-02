@@ -1,4 +1,4 @@
-### Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation
+## Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation
 
 The repository contains code and dataset for research article titled 'Yes, this is what I was looking for! Towards Multi-modal Medical Consultation Concern Summary Generation' published at 46th European Conference on Information Retrieval (ECIR 2024). 
 
@@ -9,32 +9,45 @@ Over the past few years, the use of the Internet for healthcare-related tasks ha
 
 Full Paper: https://arxiv.org/abs/2401.05134
 
-### Please install the dependencies (requirements.txt). To install the packages, 
+### Full Dataset Access
+
+We provide the dataset for research and academic purposes. To request access to the dataset, please follow the instructions below:
+
+1. **Fill Out the Request Form**: To access the corpus, you need to submit a request through our [Google Form](https://forms.gle/C5q7jDprPGsCuYcD6).
+
+2. **Review and Approval**: After submitting the form, your request will be reviewed. If approved, you will receive an email with a link to download the dataset.
+
+3. **Terms of Use**: By requesting access, you agree to:
+    - Use the dataset solely for non-commercial, educational, and research purposes.
+    - Not use the dataset for any commercial activities.
+    - Attribute the creators of this resource in any works (publications, presentations, or other public dissemination) utilizing the dataset.
+    - Not disseminate the dataset without prior permission from the appropriate authorities.
+
+### Experiment 
+
+#### Please install the dependencies (requirements.txt). To install the packages, 
 
     conda install --file requirements.txt
 
-### Dataset Access 
-
-    Link: https://docs.google.com/spreadsheets/d/1VDjL_YCjPMT44C-_YHeGNkRZj5QZC9Qk9nQePjB4m30/edit?usp=sharing
-
-### Training
+#### Training
 
     For medical concern summary generation: MMCSG > python IR-MMCS.py
 
     For doctors'summary generation: DSSG > python IR-MMCSG.py
     
-### Ablation Study
+#### Ablation Study
 
     For Ablation Study: Ablation Study > python file.py
     file (T: Text, I: image information, A: Audio, and P: Persoanlity informain)
 
-### Testing 
+#### Testing 
 
     Model weights will be saved in a folder named 'model'.
 
     Generated text will be saved in 'result' folder. 
 
-## Citation Information 
+### Citation Information 
+If you find this code useful in your research, please consider citing:
 ~~~~
 
 @inproceedings{tiwari2024yes,
